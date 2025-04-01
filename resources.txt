@@ -1,0 +1,13 @@
+RECURSOS:
+https://www.youtube.com/watch?v=r4hPYNVaExg
+https://www.pygmt.org/latest/gallery/embellishments/colorbars_multiple.html#sphx-glr-gallery-embellishments-colorbars-multiple-py
+
+https://support.zendesk.com/hc/es/articles/4408846544922-Uso-de-Markdown-para-el-formato-de-texto
+
+- HI: https://www.weather.gov/ama/heatindex
+- Punto de rocío: https://www.acurite.com/blogs/weather-101/what-is-dew-point
+
+
+DATASETS:
+https://www.datosabiertos.gob.pe/dataset/catastro-forestal-nivel-nacional-serfor
+https://www.datosabiertos.gob.pe/dataset/inventario-nacional-de-emisiones-de-gases-de-efecto-invernadero-ministerio-del-ambiente
